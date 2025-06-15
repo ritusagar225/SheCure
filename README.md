@@ -1,35 +1,64 @@
-# 🌸 Female Health & Wellness E-commerce Platform
+# 🩺 SheCure – Female Health & Wellness E-commerce Platform
 
-A modern full-stack e-commerce platform focused on **female health, hygiene, and wellness**. From personal care to diagnostic kits, this app allows users to browse curated products, add them to the cart, and explore trusted healthcare categories — all built using the powerful MERN stack.
+**SheCure** is a modern, full-stack e-commerce platform built to support and prioritize **women’s health, hygiene, and wellness**. From personal care products to diagnostic kits, SheCure helps users explore curated items, manage their carts, and browse trusted healthcare categories — all within a fast, responsive, and beautifully designed interface.
+
+> Built with 💖 to promote comfort, care, and confidence for women everywhere.
 
 ---
 
 ## 🔗 Live Demo
 
-👉 [**Click to View App**](https://shecure-mm4y.onrender.com)
+🚀 [Click here to try the live app](https://shecure-mm4y.onrender.com)
 
 ---
 
-## 💡 Project Highlights
+## ✨ Key Features
 
-- 🛍️ Women-centric product discovery & shopping
-- 🔐 JWT-based secure authentication
-- 📂 Admin product upload with category management
-- 💬 Realtime UI feedback with toast alerts
-- 🎨 Beautiful animations using Framer Motion
-- ⚡ Fast, responsive design powered by Vite + Tailwind CSS
+### 🛍️ E-Commerce Essentials
+- Product browsing by health-focused categories  
+- Admin panel for product creation with image upload  
+- SEO-friendly category URLs (e.g., `/mental-health`, `/personal-care`)  
+- Responsive cart interface (add/remove products)
+
+### 🔐 Authentication & Security
+- Secure user login/signup using JWT  
+- Protected routes for authorized user access  
+- Session handled via HTTP-only cookies
+
+### 💬 Enhanced User Experience
+- Real-time toast notifications for user actions  
+- Smooth animations powered by **Framer Motion**  
+- Fully responsive design optimized for all devices
 
 ---
 
-## 🧰 Tech Stack
+## 📚 Product Categories
 
-| Frontend          | Backend             | Other Tools             |
-|------------------|---------------------|--------------------------|
-| React (Vite)     | Node.js + Express   | Tailwind CSS             |
-| Zustand (state)  | MongoDB + Mongoose  | Framer Motion            |
-| Axios            | JWT Authentication  | Render / Vercel Hosting  |
+- 🧠 Mental Health  
+- 🧼 Personal Care & Hygiene  
+- ❤️ Sexual Health  
+- 👩‍🍼 Mother & Baby Care  
+- 🩺 Diagnostic Kits  
+- 🌿 Herbal Remedies  
+- 🚺 Women’s Health
 
 ---
 
+## ⚙️ Tech Stack
 
+| Frontend            | Backend              | Dev Tools & Hosting           |
+|---------------------|----------------------|-------------------------------|
+| React (Vite)        | Node.js + Express.js | Vercel (Frontend)             |
+| Zustand (State)     | MongoDB + Mongoose   | Render (Backend)              |
+| Tailwind CSS        | JWT Authentication   | Cloudinary (Image Uploads)    |
+| Axios, Framer Motion| RESTful APIs         | dotenv, CORS, cookie-parser   |
 
+---
+
+## 🛠️ Getting Started
+
+### 📦 Clone the Repository
+
+```bash
+git clone https://github.com/your-username/shecure.git
+cd shecure
