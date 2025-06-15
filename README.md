@@ -31,5 +31,5 @@ A modern full-stack e-commerce platform focused on **female health, hygiene, and
 
 ---
 
-## 📁 Folder Structure
+
 
