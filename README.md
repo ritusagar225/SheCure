@@ -6,7 +6,7 @@ A modern full-stack e-commerce platform focused on **female health, hygiene, and
 
 ## 🔗 Live Demo
 
-👉 [**Click to View App**](https://your-render-or-vercel-link.com)
+👉 [**Click to View App**](https://shecure-mm4y.onrender.com)
 
 ---
 
